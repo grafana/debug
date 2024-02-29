@@ -20,8 +20,8 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/debug/internal/core"
-	"golang.org/x/debug/internal/testenv"
+	"golang.org/x/debug/pkg/core"
+	"golang.org/x/debug/pkg/testenv"
 )
 
 // loadTest loads a simple core file which resulted from running the

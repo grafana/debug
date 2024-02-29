@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"golang.org/x/debug/internal/core"
+	"golang.org/x/debug/pkg/core"
 )
 
 // A Process represents the state of a Go process that core dumped.

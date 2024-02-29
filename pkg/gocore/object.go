@@ -8,7 +8,7 @@ import (
 	"math/bits"
 	"strings"
 
-	"golang.org/x/debug/internal/core"
+	"golang.org/x/debug/pkg/core"
 )
 
 // An Object represents a single reachable object in the Go heap.

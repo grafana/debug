@@ -9,7 +9,7 @@ import (
 	"math"
 	"sort"
 
-	"golang.org/x/debug/internal/core"
+	"golang.org/x/debug/pkg/core"
 )
 
 type module struct {

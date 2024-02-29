@@ -5,7 +5,7 @@
 package gocore
 
 import (
-	"golang.org/x/debug/internal/core"
+	"golang.org/x/debug/pkg/core"
 )
 
 type Goroutine struct {

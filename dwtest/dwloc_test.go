@@ -37,7 +37,7 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/debug/internal/testenv"
+	"golang.org/x/debug/pkg/testenv"
 )
 
 var preserveTemp = flag.Bool("keep", false, "keep tmpdir files for debugging")

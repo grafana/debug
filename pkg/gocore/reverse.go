@@ -7,7 +7,7 @@ package gocore
 import (
 	"sort"
 
-	"golang.org/x/debug/internal/core"
+	"golang.org/x/debug/pkg/core"
 )
 
 func (p *Process) reverseEdges() {

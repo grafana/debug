@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"golang.org/x/debug/internal/core"
+	"golang.org/x/debug/pkg/core"
 )
 
 // A Type is the representation of the type of a Go object.

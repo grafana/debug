@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strings"
 
-	"golang.org/x/debug/internal/core"
+	"golang.org/x/debug/pkg/core"
 )
 
 // read DWARF types from core dump.
